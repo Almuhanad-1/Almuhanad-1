@@ -1,62 +1,64 @@
-# 👋 Hi, I'm Almuhanad Alnihmy
+# 👋 Hey there! I'm Almuhanad Alnihmy
 
-🎓 **Software Engineer** | 🌐 **Full-Stack Web Developer** | 🌱 **Web3 Learner**
-
----
-
-I'm a full-stack developer with a strong focus on frontend development, passionate about building impactful applications in the Web2 space and exploring the potential of Web3. With around 3 years of industry experience, I’m constantly working to improve my skills and stay updated on new technologies.
+> 🎓 **Software Engineer** | 🌐 **Full-Stack Developer** | 🌱 **Web3 Enthusiast**
 
 ---
 
-## 🚀 About Me
-
-- **Experience**: 3+ years in full-stack web development with a focus on frontend
-- **Educational Background**: Seeking a degree in Software Engineering
-- **Work Style**: Collaborative, with experience working remotely and communicating effectively in teams
-- **Learning Goals**: Expanding my knowledge in Web3 and blockchain development
+🌍 **Building the Future of Web**: With a love for creating dynamic and engaging applications, I bring over **3 years** of experience as a full-stack developer focused on crafting seamless Web2 experiences and expanding into Web3. I'm always on the lookout for new tools, best practices, and the latest tech to enhance my work.
 
 ---
 
-## 🛠️ Technical Skills
+## 🔥 About Me
 
-### 🌐 Frontend
-- **Frameworks**: React, Next.js, Svelte, SvelteKit, Angular
-- **Technologies**: HTML, CSS, JavaScript, TypeScript
-
-### ⚙️ Backend
-- **Languages & Frameworks**: Node.js, Express.js
-- **Databases**: MySQL, MongoDB
-- **ORM & Services**: Sequelize, Supabase, Firebase
-
-### 🔗 Web3 & Blockchain (Learning)
-- **Languages & Tools**: Solidity, Hardhat, Web3.js, Ethers.js
-- **Libraries**: RainbowKit, Wagmi
-  - Actively developing foundational knowledge in blockchain and Web3
-
-### 💻 Programming Languages
-- **Languages**: C++, Java, JavaScript, TypeScript, HTML, CSS, Solidity
-
-### 📊 Project & Workflow Management
-- **Tools**: GitHub Projects, Trello
+- **🛠️ Experience**: 3+ years in full-stack development, focused on frontend magic ✨
+- **📚 Background**: Software Engineering Degree
+- **💼 Remote Ready**: Thrives in remote teams, with strong communication skills
+- **🚀 Current Exploration**: Diving into Web3 and blockchain fundamentals
 
 ---
 
-## 🤝 Work Style
-- Collaborative and adaptable in team settings
-- Skilled in remote work environments with clear communication
-- Passionate about continuous learning and exploring new tech
+## 🧰 My Toolbox
+
+### 🖥️ Frontend Frameworks
+- **React** ⚛️, **Next.js** 🔄, **Svelte** 🌱, **SvelteKit** 🪶, **Angular** 🔺
+- **Core Technologies**: HTML5, CSS3, JavaScript, TypeScript
+
+### 🖧 Backend Technologies
+- **Node.js** 🌐, **Express.js** 🚀
+- **Databases**: MySQL 🐬, MongoDB 🍃
+- **Services & ORM**: Sequelize, Supabase, Firebase 🔥
+
+### 🌐 Web3 & Blockchain *(Currently Learning)*
+- **Languages & Tools**: Solidity 💎, Hardhat 🧱, Web3.js, Ethers.js
+- **Libraries**: RainbowKit 🌈, Wagmi 💼
+  - *Currently building foundational knowledge in Web3 and blockchain*
+
+### 🔤 Programming Languages
+- **Languages**: C++, Java ☕, JavaScript, TypeScript, HTML, CSS, Solidity
+
+### 📅 Project & Workflow Management
+- **Tools**: GitHub Projects, Trello 📋
 
 ---
 
-## 📈 Current Focus
-🌱 Building a deeper understanding of **Web3** and **blockchain** technologies to enhance my capabilities in decentralized applications.
+## 🌟 My Work Style
+
+- **Collaborative** 🤝: Enjoys team dynamics and adapting to new challenges
+- **Remote-Savvy** 🌎: Experienced in remote work with clear, effective communication
+- **Learning-Driven** 📈: Always excited to learn and grow in new tech areas
 
 ---
 
-## 📫 Connect with Me
+## 📌 Focused On
 
-I'm always open to connecting, whether for collaboration, questions, or simply to chat about tech!
+🌱 Enhancing my Web3 knowledge and exploring blockchain technology, one project at a time, as I work toward creating impactful decentralized applications.
 
 ---
 
-**Thanks for checking out my GitHub!** 🚀
+## 📫 Connect with Me!
+
+> Feel free to reach out if you'd like to collaborate, discuss ideas, or just chat about tech!
+
+---
+
+**🚀 Thanks for checking out my GitHub! Let’s build something amazing together!**
