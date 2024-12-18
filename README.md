@@ -13,7 +13,7 @@
 - **🛠️ Experience**: 3+ years in full-stack development, focused on frontend magic ✨
 - **📚 Background**: Software Engineering Degree
 - **💼 Remote Ready**: Thrives in remote teams, with strong communication skills
-- **🚀 Current Exploration**: Diving into Web3 and blockchain fundamentals
+- **🚀 Current Exploration**: Diving into Web3 and blockchain.
 
 ---
 
@@ -31,7 +31,6 @@
 ### 🌐 Web3 & Blockchain *(Currently Learning)*
 - **Languages & Tools**: Solidity 💎, Hardhat 🧱, Web3.js, Ethers.js
 - **Libraries**: RainbowKit 🌈, Wagmi 💼
-  - *Currently building foundational knowledge in Web3 and blockchain*
 
 ### 🔤 Programming Languages
 - **Languages**: C++, Java ☕, JavaScript, TypeScript, HTML, CSS, Solidity
